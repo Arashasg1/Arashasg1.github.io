@@ -5,8 +5,8 @@ plugins:
 gems: ['jekyll/scholar'] 
 
 title: "Dr Abbas Heydarnoori"
-domain: arashasg1.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://arashasg1.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+
+google_analytics: G-D2L0JGBN08
 
 scholar:
   style: _bibliography/acm-sigchi-proceedings.csl
