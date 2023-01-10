@@ -1,12 +1,11 @@
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-scholar
   
-gems: 'jekyll/scholar' 
+gems: ['jekyll/scholar'] 
+
 title: "Dr Abbas Heydarnoori"
 
-google_analytics: G-W5T3VKJM7W
 
 scholar:
   style: _bibliography/acm-sigchi-proceedings.csl
